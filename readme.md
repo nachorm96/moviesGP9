@@ -1,5 +1,1 @@
-1_Sasha Toledo --
-2_Bettina Oña-- 
-3_Carlos Garcia-- 26 años,Corzuela
-4_Damian Ebel-- 
-5_Ignacio Rubio Montes
+1_Sasha Toledo --2_Bettina Oña-- 3_Carlos García 26 años,Corzuela-- 4_Damián Ebel 31, Lanús, Bs. As.-- 5_Ignacio Rubio Montes, 27 años, Cutral Co, NQN.
